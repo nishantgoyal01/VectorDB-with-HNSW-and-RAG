@@ -7,6 +7,13 @@ Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-
 
 ---
 
+## Snapshots
+
+<img width="1924" height="1015" alt="Screenshot 2026-07-11 at 11 15 15 AM" src="https://github.com/user-attachments/assets/56cec972-e3cc-46cd-90c9-188fc800291c" />
+
+
+---
+
 ## What This Project Does
 
 | Feature | Description |
@@ -131,11 +138,9 @@ You should see both models listed.
 Open **PowerShell** and run:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/VectorDB.git
+git clone https://github.com/nishantgoyal01/VectorDB-with-HNSW-and-RAG.git
 cd VectorDB
 ```
-
-*(Replace `YOUR_USERNAME` with the actual GitHub username)*
 
 ---
 
@@ -270,7 +275,7 @@ curl -X POST http://localhost:8080/doc/ask `
 ## Project Structure
 
 ```
-VectorDB/
+VectorDB-with-HNSW-and-RAG/
 ├── main.cpp        ← C++ backend (HNSW, KD-Tree, BruteForce, REST API, RAG)
 ├── httplib.h       ← Single-header HTTP server library (cpp-httplib)
 ├── index.html      ← Frontend (PCA scatter plot, chat UI, benchmark)
