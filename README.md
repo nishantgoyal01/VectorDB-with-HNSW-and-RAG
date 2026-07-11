@@ -139,7 +139,7 @@ Open **PowerShell** and run:
 
 ```powershell
 git clone https://github.com/nishantgoyal01/VectorDB-with-HNSW-and-RAG.git
-cd VectorDB
+cd VectorDB-with-HNSW-and-RAG
 ```
 
 ---
