@@ -7,7 +7,7 @@ Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-
 
 ---
 
-## Snapshots
+## Snapshot
 
 <img width="1924" height="1015" alt="Screenshot 2026-07-11 at 11 15 15 AM" src="https://github.com/user-attachments/assets/56cec972-e3cc-46cd-90c9-188fc800291c" />
 
